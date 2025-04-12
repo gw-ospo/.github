@@ -13,4 +13,4 @@ The OSPO is part of the GW Libraries and Academic Innovation organization (LAI),
 - Prof. Lorena A. Barba, OSPO faculty director
 - Geneva Henry, Dean of Libraries and Academic Innovation, Vice Provost for Information Technology
 - David Lippert, OSPO Director
-- Michael Rossetti, software developer
+- Michael Rossetti, Open Source Software Developer and Evangelist
